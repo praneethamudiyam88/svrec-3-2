@@ -8,8 +8,6 @@
 body{
     background: black;
     margin: 100px;
-    display: flex;
-    justify-content: center;
 }
 .lessons{
     display: flex;
@@ -22,9 +20,6 @@ a{
     background-color: antiquewhite;
     padding: 0.5rem;
     border-radius: 20px;
-}
-.window{
-    width: 1008px;
 }
 p{
     color: crimson;
